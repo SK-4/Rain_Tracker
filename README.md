@@ -1,6 +1,4 @@
 # Rain_Tracker
-Check the weather accordingly and prevents from errors using twillio API
-
 Sends user the text message , in the morning just before we head out telling us to bring an umbrella if it's going to rain in the day . So this way we don't have to check the weather we know that our trusty application is always going to alert us via an SMS message if we need to bring an umbrella or raincoat before we leave home.
 
 In order to create my rain alert python script , I want the script to be run every morning at 7 am to check whether for the next 12 hours will it be raining and then I'll know how to prepare for the day.
